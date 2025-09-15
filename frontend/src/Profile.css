@@ -1,0 +1,108 @@
+.profile-container {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  transition: 0.3s;
+}
+
+.profile-container h1 {
+  text-align: center;
+  color: #333;
+}
+
+.error {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.success {
+  color: green;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.profile-container p {
+  font-size: 16px;
+  color: #555;
+  padding: 5px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.profile-container button {
+  display: inline-block;
+  width: 48%;
+  padding: 10px;
+  margin: 10px 1%;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background 0.3s ease-in-out;
+}
+
+.profile-container .edit-button {
+  background-color: #4caf50;
+  color: white;
+}
+
+.profile-container .edit-button:hover {
+  background-color: #45a049;
+}
+
+.profile-container .change-password-button {
+  background-color: #2196f3;
+  color: white;
+}
+
+.profile-container .change-password-button:hover {
+  background-color: #1e87dc;
+}
+
+.profile-container .cancel-button {
+  background-color: #f44336;
+  color: white;
+}
+
+.profile-container .cancel-button:hover {
+  background-color: #d32f2f;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 15px;
+}
+
+.form-container label {
+  font-size: 14px;
+  color: #333;
+  font-weight: bold;
+}
+
+.form-container input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+@media (max-width: 600px) {
+  .profile-container {
+    width: 90%;
+  }
+
+  .profile-container button {
+    width: 100%;
+    margin: 5px 0;
+  }
+}
