@@ -1,0 +1,178 @@
+[
+    {
+      "name": "Apple iPhone 14",
+      "price": 999,
+      "description": "Latest smartphone with cutting-edge features.",
+      "category": "Mobiles",
+      "sellerId": "67952a0b4b0e3ae28c76c3bb"
+    },
+    {
+      "name": "Samsung Galaxy S23",
+      "price": 899,
+      "description": "Flagship smartphone with an advanced camera.",
+      "category": "Mobiles",
+      "sellerId": "67989ccc27440fc78d7ee78e"
+    },
+    {
+      "name": "Nike Air Max 270",
+      "price": 150,
+      "description": "Stylish and comfortable footwear for casual wear.",
+      "category": "Footwear",
+      "sellerId": "6798a5de5b8d8c9d957cab88"
+    },
+    {
+      "name": "Adidas Running Shoes",
+      "price": 120,
+      "description": "High-performance running shoes for athletes.",
+      "category": "Footwear",
+      "sellerId": "67952a0b4b0e3ae28c76c3bb"
+    },
+    {
+      "name": "Levi's Denim Jeans",
+      "price": 70,
+      "description": "Classic and durable denim jeans.",
+      "category": "Clothing",
+      "sellerId": "67989ccc27440fc78d7ee78e"
+    },
+    {
+      "name": "Samsung 55-inch 4K TV",
+      "price": 600,
+      "description": "Ultra HD TV with vibrant picture quality.",
+      "category": "Electronics",
+      "sellerId": "6798a5de5b8d8c9d957cab88"
+    },
+    {
+      "name": "Sony WH-1000XM5",
+      "price": 350,
+      "description": "Noise-canceling wireless headphones.",
+      "category": "Accessories",
+      "sellerId": "67952a0b4b0e3ae28c76c3bb"
+    },
+    {
+      "name": "Wooden Coffee Table",
+      "price": 200,
+      "description": "Elegant and sturdy coffee table.",
+      "category": "Furniture",
+      "sellerId": "67989ccc27440fc78d7ee78e"
+    },
+    {
+      "name": "Instant Pot Duo",
+      "price": 99,
+      "description": "Multi-functional pressure cooker for your kitchen.",
+      "category": "Kitchenware",
+      "sellerId": "6798a5de5b8d8c9d957cab88"
+    },
+    {
+      "name": "The Great Gatsby",
+      "price": 15,
+      "description": "Classic novel by F. Scott Fitzgerald.",
+      "category": "Books",
+      "sellerId": "67952a0b4b0e3ae28c76c3bb"
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "price": 50,
+      "description": "Portable speaker with great sound quality.",
+      "category": "Electronics",
+      "sellerId": "67989ccc27440fc78d7ee78e"
+    },
+    {
+      "name": "Electric Kettle",
+      "price": 30,
+      "description": "Quick and efficient water boiling.",
+      "category": "Kitchenware",
+      "sellerId": "6798a5de5b8d8c9d957cab88"
+    },
+    {
+      "name": "Dining Table Set",
+      "price": 750,
+      "description": "Complete dining set with chairs.",
+      "category": "Furniture",
+      "sellerId": "67952a0b4b0e3ae28c76c3bb"
+    },
+    {
+      "name": "Puma Sports T-Shirt",
+      "price": 25,
+      "description": "Comfortable t-shirt for workouts.",
+      "category": "Clothing",
+      "sellerId": "67989ccc27440fc78d7ee78e"
+    },
+    {
+      "name": "Kitchen Knife Set",
+      "price": 40,
+      "description": "Premium stainless steel knife set.",
+      "category": "Kitchenware",
+      "sellerId": "6798a5de5b8d8c9d957cab88"
+    },
+    {
+      "name": "Casual Backpack",
+      "price": 45,
+      "description": "Lightweight and spacious backpack.",
+      "category": "Accessories",
+      "sellerId": "67952a0b4b0e3ae28c76c3bb"
+    },
+    {
+      "name": "Apple MacBook Pro",
+      "price": 1299,
+      "description": "High-performance laptop for professionals.",
+      "category": "Electronics",
+      "sellerId": "67989ccc27440fc78d7ee78e"
+    },
+    {
+      "name": "Pack of Organic Spices",
+      "price": 25,
+      "description": "Variety of organic spices for cooking.",
+      "category": "Grocery",
+      "sellerId": "6798a5de5b8d8c9d957cab88"
+    },
+    {
+      "name": "Yoga Mat",
+      "price": 20,
+      "description": "Non-slip mat for yoga and fitness.",
+      "category": "Accessories",
+      "sellerId": "67952a0b4b0e3ae28c76c3bb"
+    },
+    {
+      "name": "Gaming Chair",
+      "price": 250,
+      "description": "Ergonomic chair for gaming sessions.",
+      "category": "Furniture",
+      "sellerId": "67989ccc27440fc78d7ee78e"
+    },
+    {
+      "name": "Cookware Set",
+      "price": 120,
+      "description": "Non-stick pots and pans set.",
+      "category": "Kitchenware",
+      "sellerId": "6798a5de5b8d8c9d957cab88"
+    },
+    {
+      "name": "LED Desk Lamp",
+      "price": 40,
+      "description": "Adjustable lamp with dimmable light.",
+      "category": "Accessories",
+      "sellerId": "67952a0b4b0e3ae28c76c3bb"
+    },
+    {
+      "name": "Bluetooth Earbuds",
+      "price": 70,
+      "description": "True wireless earbuds with noise isolation.",
+      "category": "Electronics",
+      "sellerId": "67989ccc27440fc78d7ee78e"
+    },
+    {
+      "name": "Harry Potter Box Set",
+      "price": 100,
+      "description": "Complete set of Harry Potter books.",
+      "category": "Books",
+      "sellerId": "6798a5de5b8d8c9d957cab88"
+    },
+    {
+      "name": "Winter Jacket",
+      "price": 200,
+      "description": "Warm and stylish winter jacket.",
+      "category": "Clothing",
+      "sellerId": "67952a0b4b0e3ae28c76c3bb"
+    }
+  ]
+  
